@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="paises">
+        <item>España</item>
+        <item>Italia</item>
+        <item>Francia</item>
+        <item>Alemania</item>
+        <item>Suiza</item>
+        <item>Andorra</item>
+        <item>Noruega</item>
+        <item>Finlandia</item>
+        <item>Argentina</item>
+        <item>Chile</item>
+        <item>Reino Unido</item>
+        <item>Irlanda</item>
+    </array>
+</resources>

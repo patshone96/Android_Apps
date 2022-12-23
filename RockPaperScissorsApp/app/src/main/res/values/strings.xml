@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExamenPatrickOliverBaidez</string>
+    <string name="tvTitulo">Bienvenido a Piedra, Papel o Tijera</string>
+    <string name="tvPrincipal">Pantalla de Juego</string>
+    <string name="btnPiedra">Piedra</string>
+    <string name="btnPapel">Papel</string>
+    <string name="btnTijera">Tijera</string>
+    <string name="tvElije">Elije</string>
+    <string name="tvGanadasMaquina">0</string>
+    <string name="tvGanadasPersona">0</string>
+    <string name="tvWin">Enhorabuena! Has Ganado La Partida :D</string>
+    <string name="tvLose">Lo Siento. Has Perdido La Partida :/</string>
+    <string name="btnAgainLose">Nueva Partida</string>
+    <string name="btnAgainWin">Nueva Partida</string>
+</resources>

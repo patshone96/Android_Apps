@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">U4_AEV1_Miniaplicacion_OliverBaidezPatrick</string>
+    <string name="tvTitulo">Haz tu Compra</string>
+    <string name="tvProducto">Producto:</string>
+    <string name="ptProducto">Nombre Producto</string>
+    <string name="tvPrecio">Precio:</string>
+    <string name="ptPrecio">Precio</string>
+    <string name="tvCantidad">Cantidad:</string>
+    <string name="ptCantidad">Cantidad</string>
+    <string name="tvPrincipal">BIENVENID@</string>
+    <string name="imgDesc">Carrito</string>
+    <string name="tvTotal">Total: </string>
+    <string name="btnSalir">SALIR</string>
+    <string name="btnAdd">Añadir</string>
+</resources>

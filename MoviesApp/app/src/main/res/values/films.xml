@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pelis">
+        <item>BROS</item>
+        <item>Don\'t Worry Darling"</item>
+        <item>Black Adam</item>
+        <item>Death on the Nile</item>
+        <item>Black Panther: Wakanda Forever</item>
+        <item>Pitch Perfect</item>
+        <item>Nope!</item>
+        <item>The Rocky Horror Picture Show</item>
+        <item>Everything Everywhere All at Once</item>
+        <item>Parasite</item>
+    </array>
+</resources>
